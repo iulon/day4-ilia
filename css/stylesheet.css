@@ -1,0 +1,14 @@
+
+
+@font-face  {
+    font-family: 'Roboto Mono';
+    src: url('../fonts/RobotoMono-BoldItalic_1.eot');
+    src: url('../fonts/RobotoMono-BoldItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoMono-BoldItalic_1.woff2') format('woff2'),
+        url('../fonts/RobotoMono-BoldItalic_1.woff') format('woff'),
+        url('../fonts/RobotoMono-BoldItalic_1.ttf') format('truetype'),
+        url('../fonts/RobotoMono-BoldItalic_1.svg#RobotoMono-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}

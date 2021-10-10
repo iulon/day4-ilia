@@ -45,6 +45,7 @@
 	font-size: 24px;
 	color: #000000;
 	margin-top: 117px;
+	font-family: 'Roboto Mono', monospace;
 }
 .left-box{
 	width: 570px;
@@ -78,6 +79,7 @@
 	vertical-align: top;
 	margin-top: 17px; 
 	margin-left: 61px;
+	font-family: 'Roboto Mono', monospace;
 }
 .right-box{
 	width: 570px;
@@ -135,9 +137,6 @@
 	font-size: 22px;
 	color: #3D58A6;
 }
-.article-title{
-	font-size: 20px;
-}
 .image{
 	width: 270px;
 	height: 210px;
@@ -146,6 +145,8 @@
 	margin-top: 17px;
 	margin-bottom: 17px;
 	font-weight: bolder;
+	font-size: 20px;
+	font-family: "ALK Life", sans-serif;
 }
 .image{
 	display: inline-block;
@@ -159,6 +160,7 @@
 	margin-left: 39px;
 	letter-spacing: 3px;
 	line-height: 150%;
+	font-family: "MG Glaho Drunk", sans-serif;
 }
 .p-text{
 	margin-top: 21px;
