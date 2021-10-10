@@ -145,6 +145,7 @@
 .article-title{
 	margin-top: 17px;
 	margin-bottom: 17px;
+	font-weight: bolder;
 }
 .image{
 	display: inline-block;
@@ -156,10 +157,13 @@
 	width: 929px;
 	vertical-align: top;
 	margin-left: 39px;
+	letter-spacing: 3px;
+	line-height: 150%;
 }
 .p-text{
 	margin-top: 21px;
 	margin-bottom: 24px;
+	text-indent: 50px;
 }
 .section-div1{
 	width: 1470px;
